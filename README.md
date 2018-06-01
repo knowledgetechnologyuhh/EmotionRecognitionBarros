@@ -1,4 +1,4 @@
-This repository will hold the models and solutions developed by Pablo Barros based on emotion recognition and learning.
+This repository holds the models and solutions developed by Pablo Barros based on emotion recognition and learning.
 
 **List or projetcs**
 
