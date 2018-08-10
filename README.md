@@ -7,7 +7,7 @@ For more information please visit:
 - [Google Scholar](https://scholar.google.com/citations?user=LU9tpkMAAAAJ)
 
 
-**Dependencies **
+**Prerequisites**
 
 
 tensorflow-gpu </br>
