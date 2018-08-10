@@ -1,12 +1,5 @@
 This repository holds the models and solutions developed by Pablo Barros based on emotion recognition and learning.
 
-**More Information**:
-
-- [http://pablobarros.net](http://pablobarros.net)
-- [Uni Hamburg Webpage](https://www.inf.uni-hamburg.de/en/inst/ab/wtm/people/barros.html)
-- [Google Scholar](https://scholar.google.com/citations?user=LU9tpkMAAAAJ)
-
-
 **Prerequisites**
 
 
@@ -80,3 +73,11 @@ All the examples in this repository are distributed under the Creative Commons C
 - To cite our reference in any of your publication that make any use of these examples. The references are provided at the end of this page.
 - To use the corpus for research purpose only.
 - To not provide the corpus to any second parties.
+
+**Contact**
+
+Pablo Barros - barros@informatik.uni-hamburg.de
+
+- [http://pablobarros.net](http://pablobarros.net)
+- [Uni Hamburg Webpage](https://www.inf.uni-hamburg.de/en/inst/ab/wtm/people/barros.html)
+- [Google Scholar](https://scholar.google.com/citations?user=LU9tpkMAAAAJ)
