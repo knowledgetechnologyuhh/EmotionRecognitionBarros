@@ -41,7 +41,7 @@ Each of the examples here run within the KEF framework. Also, each example needs
 
 
 
-**Ready to Run Demos**
+**Ready-to-Run Demos**
 
  - [Visual Emotion Recognition](https://github.com/knowledgetechnologyuhh/EmotionRecognitionBarros/tree/master/Demos/VisualEmotionRecognition)
 
