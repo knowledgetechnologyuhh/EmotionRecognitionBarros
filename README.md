@@ -1,6 +1,30 @@
 This repository holds the models and solutions developed by Pablo Barros based on emotion recognition and learning.
 
-**List or projetcs**
+** Dependencies **
+
+
+tensorflow-gpu </br>
+
+keras</br>
+
+matplotlib</br>
+
+h5py</br>
+
+opencv-python</br>
+
+librosa</br>
+
+pillow</br>
+
+imgaug</br>
+
+python_speech_features</br>
+
+hyperas </br>
+
+
+**List Demos**
 
  Visual Emotion Recognition  
  - Link
