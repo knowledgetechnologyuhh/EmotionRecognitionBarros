@@ -1,6 +1,13 @@
 This repository holds the models and solutions developed by Pablo Barros based on emotion recognition and learning.
 
-** Dependencies **
+For more information please visit:
+
+- [http://pablobarros.net](http://pablobarros.net)
+- [Uni Hamburg Webpage](https://www.inf.uni-hamburg.de/en/inst/ab/wtm/people/barros.html)
+- [Google Scholar](https://scholar.google.com/citations?user=LU9tpkMAAAAJ)
+
+
+**Dependencies **
 
 
 tensorflow-gpu </br>
