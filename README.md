@@ -57,7 +57,7 @@ Important references:
 
 **License**
 
-All the codes in this repository are distributed under the Creative Commons CC BY-NC-SA 3.0 DE license. If you use this corpus, you have to agree with the following itens:
+All the examples in this repository are distributed under the Creative Commons CC BY-NC-SA 3.0 DE license. If you use this corpus, you have to agree with the following itens:
 
 - To cite our reference in any of your papers that make any use of the database. The references are provided at the end of this page.
 - To use the corpus for research purpose only.
