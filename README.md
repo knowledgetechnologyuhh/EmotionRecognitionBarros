@@ -16,7 +16,7 @@ Each of the examples here run within the KEF framework. Also, each example needs
 
 **Hand gesture recognition**
 
-- NCD_VisionNetwork_SobelXY.py: Audio Channel for the OMG-Emotion dataset (Barros et al., 2014)
+- NCD_VisionNetwork_SobelXY.py: Multichannel Convolution Neural Network for hand posture recognition using the NCD dataset (Barros et al., 2014)
 
 **Auditory emotion recognition**
 
