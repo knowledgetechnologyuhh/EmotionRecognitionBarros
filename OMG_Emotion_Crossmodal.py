@@ -2,6 +2,7 @@
 
 """Experiments with the OMG-Emotion Dataset using the Cross Channel
 
+More Information: Barros, P., Barakova, E., & Wermter, S. (2018). A Deep Neural Model Of Emotion Appraisal. arXiv preprint arXiv:1808.00252.
 
  Parameters:
      baseDirectory (String): Base directory where the experiment will be saved.

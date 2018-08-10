@@ -1,6 +1,7 @@
 # -*- coding: utf-8 -*-
 """Experiments with the OMG-Emotion Dataset using the Audio Channel
 
+More Information: Barros, P., Weber, C., & Wermter, S. (2016, July). Learning auditory neural representations for emotion recognition. In Neural Networks (IJCNN), 2016 International Joint Conference on (pp. 921-928). IEEE.
 
  Parameters:
      baseDirectory (String): Base directory where the experiment will be saved.

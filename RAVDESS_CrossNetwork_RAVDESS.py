@@ -1,6 +1,7 @@
 # -*- coding: utf-8 -*-
 """Experiments with the RAVDESS-Crossmodal using Mel Spectrograms and 1 video frame
 
+More Information: Barros, P., & Wermter, S. (2016). Developing crossmodal expression recognition based on a deep neural model. Adaptive behavior, 24(5), 373-396.
 
  Parameters:
      baseDirectory (String): Base directory where the experiment will be saved.

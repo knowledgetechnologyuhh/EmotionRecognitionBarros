@@ -35,12 +35,23 @@ hyperas </br>
 
 To run the examples please pay attention on which dataset is necessary. Each of the examples refers to different funcionalities within the Emotional Deep Neural Circuitry framework.
 
-- **OMG_Emotion_Audio_MelSpectrum.py**: Audio Channel for the OMG-Emotion dataset (Barros et al., 2018)
-- **OMG_Emotion_Face.py**: Face Channel for the OMG-Emotion dataset (Barros et al., 2018)
-- **OMG_Emotion_Crossmodal.py**: Cross Channel for the OMG-Emotion dataset (Barros et al., 2018)
+Hand gesture recognition
 
-- **FERPlus_Vision_FaceChannel.py**: Face Channel for the FERPlus dataset (Barros et al., 2018)
+- **NCD_VisionNetwork_SobelXY.py**: Audio Channel for the OMG-Emotion dataset (Barros et al., 2014)
+
+Auditory emotion recognition:
+
+- **OMG_Emotion_Audio_MelSpectrum.py**: Audio Channel for the OMG-Emotion dataset (Barros et al., 2018)
 - **RAVDESS_Audio_MelSpectrum_Channel.py**: Audio Channel for the RAVDESS dataset (Barros et al., 2018)
+
+Visual emotion recognition:
+
+- **OMG_Emotion_Face.py**: Face Channel for the OMG-Emotion dataset (Barros et al., 2018)
+- **FERPlus_Vision_FaceChannel.py**: Face Channel for the FERPlus dataset (Barros et al., 2018)
+
+Crossmodal emotion recognition:
+
+- **OMG_Emotion_Crossmodal.py**: Cross Channel for the OMG-Emotion dataset (Barros et al., 2018)
 - **RAVDESS_CrossNetwork_MelSpectrum_Channel.py**: Cross Channel for the RAVDESS dataset (Barros et al., 2018)
 
 
@@ -50,6 +61,7 @@ Important references:
  - Barros, P., & Wermter, S. (2016). Developing crossmodal expression recognition based on a deep neural model. Adaptive behavior, 24(5), 373-396. http://journals.sagepub.com/doi/full/10.1177/1059712316664017
  - Barros, P., & Wermter, S. (2017, May). A self-organizing model for affective memory. In Neural Networks (IJCNN), 2017 International Joint Conference on (pp. 31-38). IEEE.
  - Barros, P., Jirak, D., Weber, C., & Wermter, S. (2015). Multimodal emotional state recognition using sequence-dependent deep hierarchical features. Neural Networks, 72, 140-151.
+ - Barros, P., Magg, S., Weber, C., & Wermter, S. (2014, September). A multichannel convolutional neural network for hand posture recognition. In International Conference on Artificial Neural Networks (pp. 403-410). Springer, Cham.
  - [All the references](https://scholar.google.com/citations?user=LU9tpkMAAAAJ)
 
 

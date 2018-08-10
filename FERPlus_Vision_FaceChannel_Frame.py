@@ -2,6 +2,7 @@
 
 """Experiments with the FER+ Dataset using the Face Channel
 
+More information: Barros, P., Jirak, D., Weber, C., & Wermter, S. (2015). Multimodal emotional state recognition using sequence-dependent deep hierarchical features. Neural Networks, 72, 140-151.
 
  Parameters:
      baseDirectory (String): Base directory where the experiment will be saved.
