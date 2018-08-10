@@ -37,22 +37,22 @@ To run the examples please pay attention on which dataset is necessary. Each of 
 
 **Hand gesture recognition**
 
-- **NCD_VisionNetwork_SobelXY.py**: Audio Channel for the OMG-Emotion dataset (Barros et al., 2014)
+- NCD_VisionNetwork_SobelXY.py: Audio Channel for the OMG-Emotion dataset (Barros et al., 2014)
 
 **Auditory emotion recognition:**
 
-- **OMG_Emotion_Audio_MelSpectrum.py**: Audio Channel for the OMG-Emotion dataset (Barros et al., 2018)
-- **RAVDESS_Audio_MelSpectrum_Channel.py**: Audio Channel for the RAVDESS dataset (Barros et al., 2018)
+- OMG_Emotion_Audio_MelSpectrum.py: Audio Channel for the OMG-Emotion dataset (Barros et al., 2018)
+- RAVDESS_Audio_MelSpectrum_Channel.py: Audio Channel for the RAVDESS dataset (Barros et al., 2018)
 
 **Visual emotion recognition:**
 
-- **OMG_Emotion_Face.py**: Face Channel for the OMG-Emotion dataset (Barros et al., 2018)
-- **FERPlus_Vision_FaceChannel.py**: Face Channel for the FERPlus dataset (Barros et al., 2018)
+- OMG_Emotion_Face.py: Face Channel for the OMG-Emotion dataset (Barros et al., 2018)
+- FERPlus_Vision_FaceChannel.py: Face Channel for the FERPlus dataset (Barros et al., 2018)
 
 **Crossmodal emotion recognition:**
 
-- **OMG_Emotion_Crossmodal.py**: Cross Channel for the OMG-Emotion dataset (Barros et al., 2018)
-- **RAVDESS_CrossNetwork_MelSpectrum_Channel.py**: Cross Channel for the RAVDESS dataset (Barros et al., 2018)
+- OMG_Emotion_Crossmodal.py: Cross Channel for the OMG-Emotion dataset (Barros et al., 2018)
+- RAVDESS_CrossNetwork_MelSpectrum_Channel.py: Cross Channel for the RAVDESS dataset (Barros et al., 2018)
 
 
 Important references:
