@@ -49,6 +49,16 @@ Each of the examples here run within the KEF framework. Also, each example needs
    Barros, P., & Wermter, S. (2016). Developing crossmodal expression recognition based on a deep neural model. Adaptive behavior, 24(5), 373-396. http://journals.sagepub.com/doi/full/10.1177/1059712316664017
 
 
+**Datasets**
+
+Follows the links for different corpora that I developed or was involved on the development. Most of the examples here make use of these corpora:
+
+- [OMG-Emotion Recognition](https://www2.informatik.uni-hamburg.de/wtm/omgchallenges/omg_emotion.html)
+- [Gesture Commands for Robot InTeraction (GRIT)] (https://www.inf.uni-hamburg.de/en/inst/ab/wtm/research/corpora.html)
+- [NAO Camera hand posture Database (NCD)] (https://www.inf.uni-hamburg.de/en/inst/ab/wtm/research/corpora.html)
+
+
+
 **Important references**
 
  - Barros, P., Barakova, E., & Wermter, S. (2018). A Deep Neural Model Of Emotion Appraisal. arXiv preprint arXiv:1808.00252.
