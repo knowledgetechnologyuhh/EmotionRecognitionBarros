@@ -32,23 +32,23 @@ To run the examples please pay attention on which dataset is necessary. Each of 
 
 - NCD_VisionNetwork_SobelXY.py: Audio Channel for the OMG-Emotion dataset (Barros et al., 2014)
 
-**Auditory emotion recognition:**
+**Auditory emotion recognition**
 
 - OMG_Emotion_Audio_MelSpectrum.py: Audio Channel for the OMG-Emotion dataset (Barros et al., 2018)
 - RAVDESS_Audio_MelSpectrum_Channel.py: Audio Channel for the RAVDESS dataset (Barros et al., 2018)
 
-**Visual emotion recognition:**
+**Visual emotion recognition**
 
 - OMG_Emotion_Face.py: Face Channel for the OMG-Emotion dataset (Barros et al., 2018)
 - FERPlus_Vision_FaceChannel.py: Face Channel for the FERPlus dataset (Barros et al., 2018)
 
-**Crossmodal emotion recognition:**
+**Crossmodal emotion recognition**
 
 - OMG_Emotion_Crossmodal.py: Cross Channel for the OMG-Emotion dataset (Barros et al., 2018)
 - RAVDESS_CrossNetwork_MelSpectrum_Channel.py: Cross Channel for the RAVDESS dataset (Barros et al., 2018)
 
 
-Important references:
+**Important references**
 
  - Barros, P., Barakova, E., & Wermter, S. (2018). A Deep Neural Model Of Emotion Appraisal. arXiv preprint arXiv:1808.00252.
  - Barros, P., & Wermter, S. (2016). Developing crossmodal expression recognition based on a deep neural model. Adaptive behavior, 24(5), 373-396. http://journals.sagepub.com/doi/full/10.1177/1059712316664017
@@ -56,6 +56,10 @@ Important references:
  - Barros, P., Jirak, D., Weber, C., & Wermter, S. (2015). Multimodal emotional state recognition using sequence-dependent deep hierarchical features. Neural Networks, 72, 140-151.
  - Barros, P., Magg, S., Weber, C., & Wermter, S. (2014, September). A multichannel convolutional neural network for hand posture recognition. In International Conference on Artificial Neural Networks (pp. 403-410). Springer, Cham.
  - [All the references](https://scholar.google.com/citations?user=LU9tpkMAAAAJ)
+
+
+**Trained Models**
+
 
 
 **Ready to Run Demos**
