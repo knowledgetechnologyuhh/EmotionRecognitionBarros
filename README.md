@@ -4,7 +4,7 @@ The KEF framework was developed to facilitate the planing and fast prototyping o
 
 
 
-**Prerequisites**
+**Pre-requisites**
 
 tensorflow-gpu, keras, matplotlib, h5py, opencv-python, librosa, pillow, imgaug, python_speech_features, hyperas
 
