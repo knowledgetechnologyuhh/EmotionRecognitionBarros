@@ -54,8 +54,8 @@ Each of the examples here run within the KEF framework. Also, each example needs
 Follows the links for different corpora that I developed or was involved on the development. Most of the examples here make use of these corpora:
 
 - [OMG-Emotion Recognition](https://www2.informatik.uni-hamburg.de/wtm/omgchallenges/omg_emotion.html)
-- [Gesture Commands for Robot InTeraction (GRIT)] (https://www.inf.uni-hamburg.de/en/inst/ab/wtm/research/corpora.html)
-- [NAO Camera hand posture Database (NCD)] (https://www.inf.uni-hamburg.de/en/inst/ab/wtm/research/corpora.html)
+- [Gesture Commands for Robot InTeraction (GRIT)](https://www.inf.uni-hamburg.de/en/inst/ab/wtm/research/corpora.html)
+- [NAO Camera hand posture Database (NCD)](https://www.inf.uni-hamburg.de/en/inst/ab/wtm/research/corpora.html)
 
 
 
