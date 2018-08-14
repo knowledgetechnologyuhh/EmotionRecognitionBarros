@@ -59,9 +59,9 @@ Follows the links for different corpora that I developed or was involved on the 
 
  - Barros, P., Barakova, E., & Wermter, S. (2018). [A Deep Neural Model Of Emotion Appraisal](https://arxiv.org/abs/1808.00252). arXiv preprint arXiv:1808.00252.
  - Barros, P., & Wermter, S. (2016). [Developing crossmodal expression recognition based on a deep neural model](http://journals.sagepub.com/doi/abs/10.1177/1059712316664017). Adaptive behavior, 24(5), 373-396. http://journals.sagepub.com/doi/full/10.1177/1059712316664017
- - Barros, P., & Wermter, S. (2017, May). A self-organizing model for affective memory. In Neural Networks (IJCNN), 2017 International Joint Conference on (pp. 31-38). IEEE.
- - Barros, P., Jirak, D., Weber, C., & Wermter, S. (2015). Multimodal emotional state recognition using sequence-dependent deep hierarchical features. Neural Networks, 72, 140-151.
- - Barros, P., Magg, S., Weber, C., & Wermter, S. (2014, September). A multichannel convolutional neural network for hand posture recognition. In International Conference on Artificial Neural Networks (pp. 403-410). Springer, Cham.
+ - Barros, P., & Wermter, S. (2017, May). [A self-organizing model for affective memory. In Neural Networks (IJCNN)](https://www2.informatik.uni-hamburg.de/wtm/publications/2017/BW17/Barros-Affective_Memory_2017-Webpage.pdf), 2017 International Joint Conference on (pp. 31-38). IEEE.
+ - Barros, P., Jirak, D., Weber, C., & Wermter, S. (2015). [Multimodal emotional state recognition using sequence-dependent deep hierarchical features](https://www.sciencedirect.com/science/article/pii/S0893608015001847). Neural Networks, 72, 140-151.
+ - Barros, P., Magg, S., Weber, C., & Wermter, S. (2014, September). [A multichannel convolutional neural network for hand posture recognition] (https://www2.informatik.uni-hamburg.de/wtm/ps/Barros_ICANN2014_CR.pdf). In International Conference on Artificial Neural Networks (pp. 403-410). Springer, Cham.
  - [All the references](https://scholar.google.com/citations?user=LU9tpkMAAAAJ)
 
 
