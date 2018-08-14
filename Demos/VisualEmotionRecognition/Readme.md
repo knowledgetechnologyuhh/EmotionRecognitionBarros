@@ -14,12 +14,9 @@ http://journals.sagepub.com/doi/full/10.1177/1059712316664017
 
 **Requirements**
 
-Numpy<br>
-OpenCV-python<br>
-Keras <br>
-Tensorflow<br>
-dlib<br>
-h5py<br>
+numpy, openCV-python, keras, tensorflow, dlib, h5py
+
+If you want to run on a GPU, install tensorflow-gpu instead of tensorflow
 
 **Instructions**
 
@@ -27,7 +24,7 @@ h5py<br>
 To run the demo with your own model (has to be saved as a KERAS model), add an entry on the modelDictionary.py containing the model's directory, class dictionary and type. Also, change the run.py to matche your inputsize (faceSize).
 
 
-The run.py file contains all the necessary configurations.
+The run.py file contains all the necessary configurations. This demos runs on Python 2.
 
 
 To run the demo just use

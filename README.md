@@ -6,12 +6,13 @@ The KEF framework was developed to facilitate the planing and fast prototyping o
 
 **Pre-requisites**
 
-tensorflow-gpu, keras, matplotlib, h5py, opencv-python, librosa, pillow, imgaug, python_speech_features, hyperas
+tensorflow, keras, matplotlib, h5py, opencv-python, librosa, pillow, imgaug, python_speech_features, hyperas
 
+If you want to run on a GPU, install tensorflow-gpu instead of tensorflow
 
 **Instructions**
 
-Each of the examples here run within the KEF framework. Also, each example needs a specific dataset which is not available here.
+Each of the examples here run within the KEF framework. Also, each example needs a specific dataset which is not available here. All the demos and examples here run on Python 2.
 
 
 **Hand gesture recognition**
@@ -54,16 +55,15 @@ Follows the links for different corpora that I developed or was involved on the 
 - [Gesture Commands for Robot InTeraction (GRIT)](https://www.inf.uni-hamburg.de/en/inst/ab/wtm/research/corpora.html)
 - [NAO Camera hand posture Database (NCD)](https://www.inf.uni-hamburg.de/en/inst/ab/wtm/research/corpora.html)
 
-
-
 **Important references**
 
- - Barros, P., Barakova, E., & Wermter, S. (2018). A Deep Neural Model Of Emotion Appraisal. arXiv preprint arXiv:1808.00252.
- - Barros, P., & Wermter, S. (2016). Developing crossmodal expression recognition based on a deep neural model. Adaptive behavior, 24(5), 373-396. http://journals.sagepub.com/doi/full/10.1177/1059712316664017
+ - Barros, P., Barakova, E., & Wermter, S. (2018). [A Deep Neural Model Of Emotion Appraisal](https://arxiv.org/abs/1808.00252). arXiv preprint arXiv:1808.00252.
+ - Barros, P., & Wermter, S. (2016). [Developing crossmodal expression recognition based on a deep neural model](http://journals.sagepub.com/doi/abs/10.1177/1059712316664017). Adaptive behavior, 24(5), 373-396. http://journals.sagepub.com/doi/full/10.1177/1059712316664017
  - Barros, P., & Wermter, S. (2017, May). A self-organizing model for affective memory. In Neural Networks (IJCNN), 2017 International Joint Conference on (pp. 31-38). IEEE.
  - Barros, P., Jirak, D., Weber, C., & Wermter, S. (2015). Multimodal emotional state recognition using sequence-dependent deep hierarchical features. Neural Networks, 72, 140-151.
  - Barros, P., Magg, S., Weber, C., & Wermter, S. (2014, September). A multichannel convolutional neural network for hand posture recognition. In International Conference on Artificial Neural Networks (pp. 403-410). Springer, Cham.
  - [All the references](https://scholar.google.com/citations?user=LU9tpkMAAAAJ)
+
 
 
 **License**
