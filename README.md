@@ -12,7 +12,7 @@ If you want to run on a GPU, install tensorflow-gpu instead of tensorflow
 
 **Instructions**
 
-Each of the examples here run within the KEF framework. Also, each example needs a specific dataset which is not available here. All the demos and examples here run on Python 2.
+Each of the examples here run within the KEF framework. Also, each example needs a specific dataset which is not available here. All the demos and examples here run on Python 2.7.
 
 
 **Hand gesture recognition**
