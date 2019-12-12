@@ -1,3 +1,7 @@
+**This repository is outdated as for 12.12.2019. For a newer version, please access: https://github.com/pablovin/AffectiveMemoryFramework**
+
+
+
 This repository holds the models and solutions developed by Pablo Barros based on emotion recognition and learning.
 
 The KEF framework was developed to facilitate the planing and fast prototyping of different scientific experiments. All the examples in this repository use the KEF framework.
